@@ -1,1 +1,1 @@
-This is my first repository in GITHUB ever. 
+This is my first repository in GITHUB ever. This is the change I made in this repo.
