@@ -1,2 +1,6 @@
 this is the file that saved in the website
+<<<<<<< HEAD
 this will show up in the web
+=======
+this is a new a line 
+>>>>>>> newbranch
